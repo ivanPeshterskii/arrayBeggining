@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rj8VA7jErVVt+VcNStfWEyJ0GwNJSCQgwKppo5m6JyaJyS9be9qE/c0Adgu7UW6zwcyZDAw4QawXcPw16aL5xA==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpeshterski/Projects/arrays/dayOfWeek/dayOfWeek.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/bin/Debug/net6.0/dayOfWeek
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/bin/Debug/net6.0/dayOfWeek.deps.json
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/bin/Debug/net6.0/dayOfWeek.runtimeconfig.json
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/bin/Debug/net6.0/dayOfWeek.dll
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/bin/Debug/net6.0/dayOfWeek.pdb
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/obj/Debug/net6.0/dayOfWeek.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/obj/Debug/net6.0/dayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/obj/Debug/net6.0/dayOfWeek.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/obj/Debug/net6.0/dayOfWeek.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/obj/Debug/net6.0/dayOfWeek.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/obj/Debug/net6.0/dayOfWeek.dll
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/obj/Debug/net6.0/refint/dayOfWeek.dll
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/obj/Debug/net6.0/dayOfWeek.pdb
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/obj/Debug/net6.0/dayOfWeek.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/arrays/dayOfWeek/obj/Debug/net6.0/ref/dayOfWeek.dll
