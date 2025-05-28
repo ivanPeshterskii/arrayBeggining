@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/bin/Debug/net6.0/forEachLoop
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/bin/Debug/net6.0/forEachLoop.deps.json
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/bin/Debug/net6.0/forEachLoop.runtimeconfig.json
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/bin/Debug/net6.0/forEachLoop.dll
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/bin/Debug/net6.0/forEachLoop.pdb
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/obj/Debug/net6.0/forEachLoop.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/obj/Debug/net6.0/forEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/obj/Debug/net6.0/forEachLoop.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/obj/Debug/net6.0/forEachLoop.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/obj/Debug/net6.0/forEachLoop.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/obj/Debug/net6.0/forEachLoop.dll
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/obj/Debug/net6.0/refint/forEachLoop.dll
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/obj/Debug/net6.0/forEachLoop.pdb
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/obj/Debug/net6.0/forEachLoop.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/arrays/forEachLoop/obj/Debug/net6.0/ref/forEachLoop.dll
