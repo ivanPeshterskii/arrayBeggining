@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/arrays/reverseString/bin/Debug/net6.0/reverseString
+/Users/ivanpeshterski/Projects/arrays/reverseString/bin/Debug/net6.0/reverseString.deps.json
+/Users/ivanpeshterski/Projects/arrays/reverseString/bin/Debug/net6.0/reverseString.runtimeconfig.json
+/Users/ivanpeshterski/Projects/arrays/reverseString/bin/Debug/net6.0/reverseString.dll
+/Users/ivanpeshterski/Projects/arrays/reverseString/bin/Debug/net6.0/reverseString.pdb
+/Users/ivanpeshterski/Projects/arrays/reverseString/obj/Debug/net6.0/reverseString.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/arrays/reverseString/obj/Debug/net6.0/reverseString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/arrays/reverseString/obj/Debug/net6.0/reverseString.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/arrays/reverseString/obj/Debug/net6.0/reverseString.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/arrays/reverseString/obj/Debug/net6.0/reverseString.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/arrays/reverseString/obj/Debug/net6.0/reverseString.dll
+/Users/ivanpeshterski/Projects/arrays/reverseString/obj/Debug/net6.0/refint/reverseString.dll
+/Users/ivanpeshterski/Projects/arrays/reverseString/obj/Debug/net6.0/reverseString.pdb
+/Users/ivanpeshterski/Projects/arrays/reverseString/obj/Debug/net6.0/reverseString.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/arrays/reverseString/obj/Debug/net6.0/ref/reverseString.dll

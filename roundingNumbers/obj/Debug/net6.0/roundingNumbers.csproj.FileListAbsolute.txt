@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/bin/Debug/net6.0/roundingNumbers
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/bin/Debug/net6.0/roundingNumbers.deps.json
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/bin/Debug/net6.0/roundingNumbers.runtimeconfig.json
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/bin/Debug/net6.0/roundingNumbers.dll
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/bin/Debug/net6.0/roundingNumbers.pdb
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/obj/Debug/net6.0/roundingNumbers.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/obj/Debug/net6.0/roundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/obj/Debug/net6.0/roundingNumbers.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/obj/Debug/net6.0/roundingNumbers.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/obj/Debug/net6.0/roundingNumbers.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/obj/Debug/net6.0/roundingNumbers.dll
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/obj/Debug/net6.0/refint/roundingNumbers.dll
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/obj/Debug/net6.0/roundingNumbers.pdb
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/obj/Debug/net6.0/roundingNumbers.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/arrays/roundingNumbers/obj/Debug/net6.0/ref/roundingNumbers.dll
