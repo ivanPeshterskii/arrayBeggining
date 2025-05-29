@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/bin/Debug/net6.0/evenAndOddSub
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/bin/Debug/net6.0/evenAndOddSub.deps.json
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/bin/Debug/net6.0/evenAndOddSub.runtimeconfig.json
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/bin/Debug/net6.0/evenAndOddSub.dll
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/bin/Debug/net6.0/evenAndOddSub.pdb
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/obj/Debug/net6.0/evenAndOddSub.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/obj/Debug/net6.0/evenAndOddSub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/obj/Debug/net6.0/evenAndOddSub.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/obj/Debug/net6.0/evenAndOddSub.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/obj/Debug/net6.0/evenAndOddSub.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/obj/Debug/net6.0/evenAndOddSub.dll
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/obj/Debug/net6.0/refint/evenAndOddSub.dll
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/obj/Debug/net6.0/evenAndOddSub.pdb
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/obj/Debug/net6.0/evenAndOddSub.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/arrays/evenAndOddSub/obj/Debug/net6.0/ref/evenAndOddSub.dll

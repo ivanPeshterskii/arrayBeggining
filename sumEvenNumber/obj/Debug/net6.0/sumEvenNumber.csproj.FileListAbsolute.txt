@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/bin/Debug/net6.0/sumEvenNumber
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/bin/Debug/net6.0/sumEvenNumber.deps.json
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/bin/Debug/net6.0/sumEvenNumber.runtimeconfig.json
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/bin/Debug/net6.0/sumEvenNumber.dll
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/bin/Debug/net6.0/sumEvenNumber.pdb
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/obj/Debug/net6.0/sumEvenNumber.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/obj/Debug/net6.0/sumEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/obj/Debug/net6.0/sumEvenNumber.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/obj/Debug/net6.0/sumEvenNumber.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/obj/Debug/net6.0/sumEvenNumber.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/obj/Debug/net6.0/sumEvenNumber.dll
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/obj/Debug/net6.0/refint/sumEvenNumber.dll
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/obj/Debug/net6.0/sumEvenNumber.pdb
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/obj/Debug/net6.0/sumEvenNumber.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/arrays/sumEvenNumber/obj/Debug/net6.0/ref/sumEvenNumber.dll
