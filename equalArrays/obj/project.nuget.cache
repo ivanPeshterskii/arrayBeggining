@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ysllsLtYG5jakY91qmQuYY7oWrzQ0FvOfszcmPu9nF/FF/8Xh5gYEt7z8GyhkhKAI4NyWFo794+Ffk7m7zLPhA==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpeshterski/Projects/arrays/equalArrays/equalArrays.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
